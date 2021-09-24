@@ -17,6 +17,7 @@ class Counter extends React.Component {
   render() {
     return (
       <div className="content">
+        <div className="container">
           <div className="counter row">
             <h1>
               Has dado {this.state.counter} clicks!
@@ -28,6 +29,7 @@ class Counter extends React.Component {
           >
             Click me!
           </button>
+        </div>
       </div>
     );
   }
