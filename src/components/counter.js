@@ -20,14 +20,14 @@ class Counter extends React.Component {
         <div className="container">
           <div className="counter row">
             <h1>
-              Has dado {this.state.counter} clicks!
+              ¡Has dado {this.state.counter} clicks!
             </h1>
           </div>
           <button 
             className="btn btn-primary" 
             onClick={this.handleClick}
           >
-            Click me!
+            Haz click aquí
           </button>
         </div>
       </div>
