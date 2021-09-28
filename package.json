@@ -1,6 +1,6 @@
 {
-  "homepage": "https://elizalzate.github.io/",
-  "name": "index",
+  "homepage": "https://elizalzate.github.io/counter-app",
+  "name": "counter-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
